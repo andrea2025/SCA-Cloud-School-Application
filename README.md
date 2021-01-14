@@ -1,7 +1,8 @@
 #  SCA-Cloud-School-Application
 ###  Documentation
 
-1. Created a SCA-Cloud-School-Application repository
+1. Created a SCA-Cloud-School-Application repository  
+
 2. Cloned the repository 
 3. Created and edited the index.html 
 4. Created and edited the Dockerfile file to setup nginx webserver on ubuntu OS
