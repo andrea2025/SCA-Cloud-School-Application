@@ -1,5 +1,5 @@
-# H1 SCA-Cloud-School-Application
-### H3 Documentation
+#  SCA-Cloud-School-Application
+###  Documentation
 
 1. Created a SCA-Cloud-School-Application repository
 2. Cloned the repository 
